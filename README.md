@@ -22,7 +22,7 @@ This project demonstrates a responsive analytics dashboard with four different c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Nikolai-Semko/dynamic-dashboard.git
+git clone https://github.com/Nikolai-Semko/harmonic-dashboard.git
 cd dynamic-dashboard
 ```
 
