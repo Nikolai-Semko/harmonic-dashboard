@@ -118,6 +118,8 @@ You can customize various aspects of the charts:
 To create a production build:
 
 ```bash
+npm run dev
+# or
 npm run build
 # or
 yarn build
