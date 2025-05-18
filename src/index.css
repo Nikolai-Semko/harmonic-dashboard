@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #1F2A40;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4CCEAC;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #3e4396;
+}
+
+/* Light mode scrollbar */
+.light::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+.light::-webkit-scrollbar-thumb {
+  background: #2a9d8f;
+}
+
+.light::-webkit-scrollbar-thumb:hover {
+  background: #218277;
+}
